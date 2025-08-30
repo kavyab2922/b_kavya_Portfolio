@@ -8,16 +8,16 @@
 ---
 
 ## 🌐 Live Demo  
-🔗 [View Portfolio](#) *(Add your deployed link: Vercel / Netlify / GitHub Pages)*  
+🔗 [View Portfolio](https://kavyaportfolioa.netlify.app)  
 
 ---
 
 ## 🚀 Features  
 ✅ Mobile-first, responsive design  
-⚡ Fast performance powered by Vite  
-🎨 Clean, modern UI with customizable styling  
+⚡ Lightning-fast performance powered by Vite  
+🎨 Clean and modern UI with customizable styling  
 📂 Sections for **About | Skills | Projects | Contact**  
-🚀 Easy deployment to Netlify, Vercel, or GitHub Pages  
+🚀 Easy deployment to **Netlify**, **Vercel**, or **GitHub Pages**  
 
 ---
 
@@ -26,8 +26,8 @@
 | Category      | Technology |
 |---------------|------------|
 | **Framework** | React (Vite) |
-| **Styling**   | CSS / TailwindCSS (update if needed) |
-| **Deployment**| GitHub Pages / Vercel / Netlify |
+| **Styling**   | TailwindCSS  |
+| **Deployment**| Netlify |
 
 ---
 
@@ -45,3 +45,9 @@ npm install
 
 # Run development server
 npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
